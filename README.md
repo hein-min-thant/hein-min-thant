@@ -40,6 +40,7 @@ Get in Touch
 
 Let's Connect
 Let's connect and build something amazing together! 😊
+heinminthant4646@gmail.com
 
 <!---
 hein-min-thant/hein-min-thant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
