@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hein-min-thant
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning android developmwnt
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learing Next.js and others
+- 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me 
 heinminthant4646@gmail.com
 
